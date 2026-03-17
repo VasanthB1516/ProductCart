@@ -1,0 +1,214 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Essence Mascara Lash Princess",
+            "description": "Popular mascara known for volumizing and lengthening lashes.",
+            "category": "beauty",
+            "price": 9.99,
+            "rating": 2.56,
+            "stock": 99,
+            "thumbnail": "https://images.unsplash.com/photo-1596462502278-27bfdc403348"
+        },
+        {
+            "id": 2,
+            "title": "Maybelline Fit Me Foundation",
+            "description": "Lightweight foundation that provides natural coverage.",
+            "category": "beauty",
+            "price": 12.99,
+            "rating": 4.1,
+            "stock": 120,
+            "thumbnail": "https://th.bing.com/th/id/OIP.5xTALCsxkyoNl00iz497gwHaHa?w=219&h=219&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+        },
+        {
+            "id": 3,
+            "title": "Lakme Lip Love",
+            "description": "Moisturizing lip balm with SPF protection.",
+            "category": "beauty",
+            "price": 5.49,
+            "rating": 3.9,
+            "stock": 75,
+            "thumbnail": "https://assets.myntassets.com/assets/images/9352375/2025/7/31/8a903044-bce6-4db3-bdf2-70ac0536daaa1753943196527-Lakme-Lip-Love-Chapstick-SPF-15---Cherry-6001753943195347-1.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Nykaa Nail Enamel",
+            "description": "Long lasting glossy nail paint.",
+            "category": "beauty",
+            "price": 3.99,
+            "rating": 4.2,
+            "stock": 150,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOti1iuPn0VW57j0kNAAZyG4LUWctEnXcepQ&s"
+        },
+        {
+            "id": 5,
+            "title": "L'Oreal Paris Kajal",
+            "description": "Smudge proof kajal with intense black finish.",
+            "category": "beauty",
+            "price": 6.99,
+            "rating": 4.5,
+            "stock": 110,
+            "thumbnail": "https://www.planethealth.in/image/cache/catalog/LOL7-500x500.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Apple iPhone 13",
+            "description": "Powerful smartphone with A15 Bionic chip.",
+            "category": "electronics",
+            "price": 799,
+            "rating": 4.8,
+            "stock": 45,
+            "thumbnail": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iphone13_hero_geo_09142021_inline.jpg.large.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Samsung Galaxy S22",
+            "description": "Flagship smartphone with amazing camera.",
+            "category": "electronics",
+            "price": 699,
+            "rating": 4.6,
+            "stock": 40,
+            "thumbnail": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/64/6605392/1.jpg?9239"
+        },
+        {
+            "id": 8,
+            "title": "Sony WH-1000XM5 Headphones",
+            "description": "Industry leading noise cancelling headphones.",
+            "category": "electronics",
+            "price": 349,
+            "rating": 4.7,
+            "stock": 30,
+            "thumbnail": "https://m.media-amazon.com/images/I/51KGPDttQhL.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Logitech MX Master 3 Mouse",
+            "description": "Advanced wireless mouse for productivity.",
+            "category": "electronics",
+            "price": 99,
+            "rating": 4.5,
+            "stock": 60,
+            "thumbnail": "https://www.capesindia.com/cdn/shop/products/mx-master-3_alpine-green.jpg?v=1702115483&width=800"
+        },
+        {
+            "id": 10,
+            "title": "Dell XPS 13 Laptop",
+            "description": "Ultra portable laptop with premium design.",
+            "category": "electronics",
+            "price": 1099,
+            "rating": 4.7,
+            "stock": 20,
+            "thumbnail": "https://serverbazar.in/wp-content/uploads/2024/11/dell-xps-9345.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Men Casual T-Shirt",
+            "description": "Comfortable cotton t-shirt for daily wear.",
+            "category": "fashion",
+            "price": 19.99,
+            "rating": 4.1,
+            "stock": 200,
+            "thumbnail": "https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/32193190/2025/1/3/bd706895-7318-492b-b806-d06cc5c54f3d1735885430122CampusSutraMenStripedPoloCollarT-shirt1.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Women Summer Dress",
+            "description": "Lightweight floral summer dress.",
+            "category": "fashion",
+            "price": 39.99,
+            "rating": 4.3,
+            "stock": 140,
+            "thumbnail": "https://m.media-amazon.com/images/I/91rxr+L2bkL._AC_UY1100_.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Nike Running Shoes",
+            "description": "Comfortable shoes designed for running.",
+            "category": "fashion",
+            "price": 89.99,
+            "rating": 4.6,
+            "stock": 70,
+            "thumbnail": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/3/5324c8eNike-HJ8485-001_1.jpg?rnd=20200526195200&tr=w-512"
+        },
+        {
+            "id": 14,
+            "title": "Adidas Hoodie",
+            "description": "Warm and stylish hoodie.",
+            "category": "fashion",
+            "price": 59.99,
+            "rating": 4.4,
+            "stock": 80,
+            "thumbnail": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/ad51eba48eb84629aa7c92ebf872c641_9366/future-icons-3-stripes-fullzip-hoodie.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Levis Denim Jacket",
+            "description": "Classic denim jacket for all seasons.",
+            "category": "fashion",
+            "price": 79.99,
+            "rating": 4.5,
+            "stock": 50,
+            "thumbnail": "https://levi.in/cdn/shop/files/006H90000_01_Styleshot_360x.jpg?v=1772687426&width=400"
+        },
+        {
+            "id": 16,
+            "title": "Wooden Dining Table",
+            "description": "Elegant wooden dining table set.",
+            "category": "furniture",
+            "price": 299,
+            "rating": 4.3,
+            "stock": 25,
+            "thumbnail": "https://rub-le.in/cdn/shop/files/vista-dining-table-109971.webp?v=1724838728"
+        },
+        {
+            "id": 17,
+            "title": "Office Chair Ergonomic",
+            "description": "Comfortable ergonomic office chair.",
+            "category": "furniture",
+            "price": 149,
+            "rating": 4.2,
+            "stock": 35,
+            "thumbnail": "https://pelicanwork.com/cdn/shop/files/n5-Photoroom.jpg?v=1758379362&width=2048"
+        },
+        {
+            "id": 18,
+            "title": "Modern Sofa Set",
+            "description": "Luxury sofa set with premium fabric.",
+            "category": "furniture",
+            "price": 699,
+            "rating": 4.5,
+            "stock": 12,
+            "thumbnail": "https://www.estre.in/cdn/shop/files/2_c32d5f1a-ea18-4ef7-90bc-e96f0a58366a.jpg?v=1743762907"
+        },
+        {
+            "id": 19,
+            "title": "Bookshelf Organizer",
+            "description": "Stylish bookshelf for home decor.",
+            "category": "furniture",
+            "price": 89,
+            "rating": 4.1,
+            "stock": 60,
+            "thumbnail": "https://www.bluewud.com/cdn/shop/files/SB-JMY-M-_1_93691d88-26b3-49a9-ad42-537b912b1303_700x700.jpg?v=1754908458"
+        },
+        {
+            "id": 20,
+            "title": "Bedside Table",
+            "description": "Compact bedside table with drawer.",
+            "category": "furniture",
+            "price": 49,
+            "rating": 4.0,
+            "stock": 75,
+            "thumbnail": "https://atinymistake.com/cdn/shop/products/BedsideTableTeakHues3.jpg?v=1678176450"
+        },
+        {
+            "id": 50,
+            "title": "Yoga Mat Premium",
+            "description": "Non-slip yoga mat for workouts.",
+            "category": "sports",
+            "price": 29.99,
+            "rating": 4.6,
+            "stock": 90,
+            "thumbnail": "https://rukminim2.flixcart.com/image/480/640/xif0q/sport-mat/1/t/m/premium-tpe-dual-color-anti-slip-with-cover-bag-navy-blue-sky-original-imah9cn8qxfd8kdf.jpeg?q=90"
+        }
+    ]
+}
